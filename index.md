@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## HEFCE Project: “Improving Student Engagement and Retention through “human-in-the-loop” Learning Analytics”
 
 The aim of this HEFCE-funded project is to develop novel Learning Analytics techniques, incorporating practitioner knowledge and student insights, to improve outcomes for Undergraduate students.
  
