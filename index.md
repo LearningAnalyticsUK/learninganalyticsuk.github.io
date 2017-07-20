@@ -11,3 +11,6 @@ We propose a “human-in-the-loop” approach, engaging students and course lead
 A novel software tool will provide advanced interactive data exploration capabilities, and contribute insights to inform the analytics process. Our approach tailors Learning Analytics to the specific disciplinary, educational and instructional context, strengthening the quality of interventions, and their impact on student outcomes.
  
 The project engages each of our three Faculties, across two academic years, in a pilot of the technology.
+
+### Contact Us
+For project enquiries, please contact Matthew Forshaw, Lecturer in Data Science (matthew.forshaw@ncl.ac.uk).
