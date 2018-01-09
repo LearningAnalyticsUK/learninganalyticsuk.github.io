@@ -8,13 +8,13 @@ Failure to incorporate practitioner knowledge, and student experience, means the
  
 We propose a “human-in-the-loop” approach, engaging students and course leaders as active partners in Learning Analytics. This enables richer interaction with data, encouraging dialogue around student progress.
  
-A novel software tool will provide advanced interactive data exploration capabilities, and contribute insights to inform the analytics process. Our approach tailors Learning Analytics to the specific disciplinary, educational and instructional context, strengthening the quality of interventions, and their impact on student outcomes.
- 
-The project engages each of our three Faculties, across two academic years, in a pilot of the technology.
+One of the primary contributions of our project is a [novel software tool](#glance), providing advanced interactive data exploration capabilities and providing insight into the analytical processes of course leaders.
+
+Additionally, throughout the course of the project we have been continuously engaging each of our three Faculties, building and testing small prototype tools and reporting/analytics pipelines to suit their varied needs and experience.
 
 ### Glance
 
-As part of the project, we have developed a prototype application called **Glance**. Glance creates “survey dashboards” containing sets of visualisations about student engagement and performance, asking instructors to compare and rank students based on their predicted performance in a given module, 
+The novel software tool described above is an application called **Glance**. Glance creates “survey dashboards” containing sets of visualisations about student engagement and performance, asking instructors to compare and rank students based on their predicted performance in a given module, 
 
 The application provides a framework for:  
 
