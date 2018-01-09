@@ -12,5 +12,17 @@ A novel software tool will provide advanced interactive data exploration capabil
  
 The project engages each of our three Faculties, across two academic years, in a pilot of the technology.
 
+### Glance
+
+As part of the project, we have developed a prototype application called **Glance**. Glance creates “survey dashboards” containing sets of visualisations about student engagement and performance, asking instructors to compare and rank students based on their predicted performance in a given module, 
+
+The application provides a framework for:  
+
+* Evaluating the impact of different instructor facing dashboards, by measuring the accuracy of instructors’ mental models of student performance when presented with each.
+
+* Capturing instructor predictions about student performance through an intuitive and easy-to-use interface. These may then be measured for accuracy against students’ true performance and used to improve simple machine learning models. 
+ 
+The applications itself has been used for a number of small scale studies here at Newcastle, but was never intended to be Newcastle specific. To that end, it is [open sourced](https://github.com/LearningAnalyticsUK/soar-glance) under a permissive license, its setup and use thoroughly documented. 
+
 ### Contact Us
 For project enquiries, please contact Matthew Forshaw, Lecturer in Data Science (matthew.forshaw@ncl.ac.uk).
