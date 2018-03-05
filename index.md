@@ -24,5 +24,15 @@ The application provides a framework for:
  
 The applications itself has been used for a number of small scale studies here at Newcastle, but was never intended to be Newcastle specific. To that end, it is [open sourced](https://github.com/LearningAnalyticsUK/soar-glance) under a permissive license, its setup and use thoroughly documented. 
 
+### Webinars
+
+We have scheduled several open-call webinars. During the webinar, we will present preliminary results arising from the project, and provide an introduction to the use of Glance at your own institution.
+
+- 9-10am GMT Friday 9th March 2018
+- 9-10am GMT Tuesday 13th March 2018
+- 9-10am GMT Friday 16th March 2018
+
+To sign up for the webinars, please email matthew.forshaw@ncl.ac.uk, stating your name, institution and preferred date.
+
 ### Contact Us
 For project enquiries, please contact Matthew Forshaw, Lecturer in Data Science (matthew.forshaw@ncl.ac.uk).
