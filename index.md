@@ -18,7 +18,7 @@ The novel software tool described above is an application called **Glance**. Gla
 
 The application provides a framework for:  
 
-* Evaluating the impact of different instructor facing dashboards, by measuring the accuracy of instructors’ mental models of student performance when presented with each.
+* Evaluating the impact of different instructor-facing dashboards, by measuring the accuracy of instructors’ mental models of student performance when presented with each.
 
 * Capturing instructor predictions about student performance through an intuitive and easy-to-use interface. These may then be measured for accuracy against students’ true performance and used to improve simple machine learning models. 
  
